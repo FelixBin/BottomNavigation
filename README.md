@@ -3,6 +3,7 @@
 A new Flutter project.
 
 A Rule navigation of bottom
+![BottomNavigation](https://github.com/FelixBin/BottomNavigation/blob/master/1.png)
 
 ## Getting Started
 
